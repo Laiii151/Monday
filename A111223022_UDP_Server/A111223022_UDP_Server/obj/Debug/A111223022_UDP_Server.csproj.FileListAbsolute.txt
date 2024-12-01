@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\bin\Debug\A111223022_UDP_Server.exe.config
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\bin\Debug\A111223022_UDP_Server.exe
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\bin\Debug\A111223022_UDP_Server.pdb
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.Form1.resources
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.Properties.Resources.resources
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.exe
+C:\Users\shu\Desktop\A111223022_UDP_Server\A111223022_UDP_Server\obj\Debug\A111223022_UDP_Server.pdb

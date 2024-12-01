@@ -1,0 +1,50 @@
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe.config
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Form1.resources
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Properties.Resources.resources
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Desktop\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe.config
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.AssemblyReference.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Form1.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Properties.Resources.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe.config
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.AssemblyReference.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Form1.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Properties.Resources.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (1)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe.config
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Form1.resources
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Properties.Resources.resources
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\User\Downloads\A111223022_MyPainter_Ex2 (2)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe.config
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\bin\Debug\A111223022_MyPainter_Ex2.pdb
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.AssemblyReference.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Form1.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.Properties.Resources.resources
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.exe
+C:\Users\shu\Downloads\A111223022_MyPainter_Ex2 (3)\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\A111223022_MyPainter_Ex2\obj\Debug\A111223022_MyPainter_Ex2.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2B3C9-188E-406B-9050-1B0389C587C0}|A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2.csproj|c:\\users\\user\\downloads\\a111223022_mypainter_ex2 (2)\\a111223022_mypainter_ex2\\a111223022_mypainter_ex2\\a111223022_mypainter_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A2B3C9-188E-406B-9050-1B0389C587C0}|A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2.csproj|solutionrelative:a111223022_mypainter_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A2B3C9-188E-406B-9050-1B0389C587C0}|A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2.csproj|C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\a111223022_mypainter_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A2B3C9-188E-406B-9050-1B0389C587C0}|A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2.csproj|solutionrelative:a111223022_mypainter_ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\Form1.cs",
+              "RelativeDocumentMoniker": "A111223022_MyPainter_Ex2\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\Form1.cs",
+              "RelativeToolTip": "A111223022_MyPainter_Ex2\\Form1.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv8cAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:35:01.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\Form1.cs",
+              "RelativeDocumentMoniker": "A111223022_MyPainter_Ex2\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\A111223022_MyPainter_Ex2 (2)\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\A111223022_MyPainter_Ex2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "A111223022_MyPainter_Ex2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:52:29.217Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

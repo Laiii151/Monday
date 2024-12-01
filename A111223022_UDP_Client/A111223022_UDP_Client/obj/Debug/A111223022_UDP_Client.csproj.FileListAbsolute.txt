@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\bin\Debug\A111223022_UDP_Client.exe.config
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\bin\Debug\A111223022_UDP_Client.exe
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\bin\Debug\A111223022_UDP_Client.pdb
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.Form1.resources
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.Properties.Resources.resources
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.exe
+C:\Users\shu\Desktop\113-WebApp\A111223022_UDP_Client\A111223022_UDP_Client\obj\Debug\A111223022_UDP_Client.pdb

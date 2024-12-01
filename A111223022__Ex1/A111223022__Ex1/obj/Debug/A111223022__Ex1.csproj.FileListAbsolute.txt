@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\bin\Debug\A111223022__Ex1.exe.config
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\bin\Debug\A111223022__Ex1.exe
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\bin\Debug\A111223022__Ex1.pdb
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.Form1.resources
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.Properties.Resources.resources
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.exe
+C:\Users\shu\Desktop\A111223022__Ex1\A111223022__Ex1\obj\Debug\A111223022__Ex1.pdb

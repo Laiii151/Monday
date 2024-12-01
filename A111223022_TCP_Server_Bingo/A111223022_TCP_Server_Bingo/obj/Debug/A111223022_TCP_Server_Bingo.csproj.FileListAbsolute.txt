@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\bin\Debug\A111223022_TCP_Server_Bingo.exe.config
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\bin\Debug\A111223022_TCP_Server_Bingo.exe
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\bin\Debug\A111223022_TCP_Server_Bingo.pdb
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.Form1.resources
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.Properties.Resources.resources
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.exe
+C:\Users\shu\Desktop\113-WebApp\A111223022_TCP_Server_Bingo\A111223022_TCP_Server_Bingo\obj\Debug\A111223022_TCP_Server_Bingo.pdb
